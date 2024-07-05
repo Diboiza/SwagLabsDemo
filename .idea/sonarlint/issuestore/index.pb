@@ -1,0 +1,23 @@
+
+Z
+*src/test/java/bongza/Test/GBPRateTest.java,9\2\92d3723a5f684da1305f64e64c9d318987ca9d17
+X
+(src/test/java/bongza/Steps/GBPSteps.java,0\c\0caa7ea26e01b14596fb8684dd19098a14c9a664
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/test/java/bongza/runner.java,4\b\4b7aa8a0f6bc6baa9f3c7078f0a842546b8a4044
+e
+5src/test/java/bongza/web/testSitePages/LoginPage.java,f\a\fa0c2bb04ad70ccdbd140cb75240bd0a8d1df306
+h
+8src/test/java/bongza/web/testSitePages/OverviewPage.java,e\9\e910d0350f2a89db77aafc85a741f8aa765f0ca7
+h
+8src/test/java/bongza/web/testSitePages/CompletePage.java,a\9\a97f11040afab34d55d5ec092d74990d59c0d950
+d
+4src/test/java/bongza/web/testSitePages/HomePage.java,6\b\6b33f43cd805e68acb2f82e2018433995b0bfdaa
+d
+4src/test/java/bongza/web/testSitePages/CartPage.java,2\0\207a040ad3e3e0cf8169e5e99a88ceb22df99683
+h
+8src/test/java/bongza/web/testSitePages/CheckoutPage.java,8\7\87d06fb3cbd2f4ee104a254c4c248c28ccac5239
+]
+-src/test/java/bongza/Steps/PurchaseSteps.java,f\5\f5d6d1a289f419cff60d04746ba77c857f5f68e9
